@@ -28,4 +28,4 @@
 
 
 ### 내용
-- 06/29 [today_learn](https://github.com/LDJWJ/Today_Learn/blob/master/202006_29_class_memo.txt)
+- 06/29 [today_learn](https://github.com/tlqpffls/Today_Learn/tree/main)
