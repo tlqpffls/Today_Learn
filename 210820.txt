@@ -1,0 +1,10 @@
+오늘의 내용
+- RNN 기본 및 실습
+- GAN 기본 및 실습
+- kaggel 대회 소개 및 기본 코드 만들어보기
+  - 대회명 : 학습플랫폼 COVID-19가 디지털 학습에 미치는 영향
+  - https://www.kaggle.com/c/learnplatform-covid19-impact-on-digital-learning/overview
+- dacon 현재 대회 소개 및 관련 대회 시각화 살펴보기
+  - [대회 소개]  https://dacon.io/competitions/official/235767/overview/description
+  - 관련 시각화 대회(부동산 데이터 시각화)
+  - 간단 리뷰 : https://dacon.io/competitions/official/235724/codeshare?page=1&dtype=recent&ptype=pub
